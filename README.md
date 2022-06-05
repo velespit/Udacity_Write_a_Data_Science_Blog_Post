@@ -25,13 +25,13 @@ You need to be able to work in a Jupyter Notebook on your computer. The followin
 - Matplotlib
 - Seaborn
 
-You will need to download Stackoverflow’s 2021 Annual Developer Survey and put in specific folders. You can find the data to download [here](https://insights.stackoverflow.com/survey). 
+</br>You will need to download Stackoverflow’s 2021 Annual Developer Survey and put in specific folders. You can find the data to download [here](https://insights.stackoverflow.com/survey). 
 
 
 ## File Description <a name="description"></a>
 
-project_1_code.ipynb : Notebook containing the code for the project.
-stack-overflow-developer-survey-2021.zip : Stackoverflow's 2021 Developer Survey results data and survey questions.
+</br>project_1_code.ipynb : Notebook containing the code for the project.
+</br>stack-overflow-developer-survey-2021.zip : Stackoverflow's 2021 Developer Survey results data and survey questions.
 
 
 ## Project Motivation <a name="motivation"></a>
