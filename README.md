@@ -51,8 +51,8 @@ The main findings of the code can be found at the post available [here](https://
 
 ## References <a name="references"></a>
 
-stackoverflow data set : https://insights.stackoverflow.com/survey
-kaggle data set : https://www.kaggle.com/datasets/ruchi798/stack-overflow-annual-developer-survey-2021/code
+</br>stackoverflow data set : https://insights.stackoverflow.com/survey
+</br>kaggle data set : https://www.kaggle.com/datasets/ruchi798/stack-overflow-annual-developer-survey-2021/code
 
 
 ## License <a name="license"></a>
